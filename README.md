@@ -2,7 +2,7 @@
 This is a small script to help MMORPG players write long text blocks then break them out based on the maximum characters allowed by the box.
 
 # Requirements
-Python 3
+[Python 3](https://www.python.org/downloads/)
 
 # Usage
 ```
